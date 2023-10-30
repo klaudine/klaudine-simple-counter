@@ -1,0 +1,16 @@
+.counter-display{
+    text-align: center;
+    margin: 300px 0;
+}
+
+.counter-display div {
+    display: inline-block;
+    font-size: 150px;
+    background: rgb(241, 119, 5);
+    width: 150px;
+}
+
+.bi{
+    width: 150px;
+    height: 100px;
+}
