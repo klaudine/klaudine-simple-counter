@@ -1,3 +1,10 @@
+Have Vite installed
+cd simple-counter
+npm run dev
+Open in browser
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
