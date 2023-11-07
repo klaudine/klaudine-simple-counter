@@ -1,4 +1,5 @@
-Have Vite installed
+Install Vite with npm
+npm create vite@latest
 
 cd simple-counter
 
