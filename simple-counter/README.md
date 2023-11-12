@@ -2,23 +2,17 @@ Simple Counter with React + Vite
 
 Description: This project counts the seconds the web browser is open.
 
-Instructions:
 
-install Vite - a front-end build tool that provides a "faster and leaner development experience for modern web projects".
-https://vitejs.dev/guide/
-
-npm create vite@latest
-
-Create a project name
-
-Select your desired framework
-
+Commands:
 
 cd simple-counter
+
+npm install
 
 npm run dev
 
 Open in browser
+
 
 
 
